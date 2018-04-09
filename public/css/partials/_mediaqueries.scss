@@ -1,0 +1,18 @@
+//Desktop - first
+@mixin max-width($point) {
+    @if $point==small {
+        @media (max-width: 20em) {
+            @content;
+        }
+    }
+    @else if $point==medium {
+        @media (max-width: 40em) {
+            @content;
+        }
+    }
+    @else if $point==large {
+        @media (max-width: 47.5em) {
+            @content;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;EAEE;AAIF;;EAEE",
+    "sources": [
+        "style.scss",
+        "partials/_vars.scss",
+        "partials/_mediaqueries.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

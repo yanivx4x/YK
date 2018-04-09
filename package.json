@@ -1,0 +1,23 @@
+{
+  "name": "yk",
+  "version": "1.0.0",
+  "description": "Yaniv Knoll personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivx4x/YK.git"
+  },
+  "author": "Yaniv knol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanivx4x/YK/issues"
+  },
+  "homepage": "https://github.com/yanivx4x/YK#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
